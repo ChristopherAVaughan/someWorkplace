@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: admin
+Build-Jdk: 1.8.0_101
+Class-Path: lib/commons-io-1.4.jar lib/swc-engine-1.1.0.jar lib/log4j-
+ 1.2.14.jar lib/swc-parser-lazy-1.1.0.jar lib/ptk-common-1.1.0.jar lib
+ /commons-jxpath-1.3.jar lib/rats-runtime-1.15.0.jar lib/utils-0.3.0.j
+ ar lib/commons-collections-3.2.1.jar lib/jopt-simple-4.3.jar lib/comm
+ ons-lang-2.5.jar
+Main-Class: org.example.App
+Created-By: Maven Integration for Eclipse
+

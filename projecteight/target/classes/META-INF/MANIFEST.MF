@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: admin
+Class-Path: lib/emul-0.7.2-rt.jar lib/javaquery.api-0.7.2.jar
+Build-Jdk: 1.8.0_101
+Created-By: Maven Integration for Eclipse
+
